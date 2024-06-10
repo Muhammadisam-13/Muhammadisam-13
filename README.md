@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Muhammad Isam</h1>
-<h3 align="center">I'm a 1st Year Computer science student studying at FAST National University of Computer and Emerging Sciences.</h3>
+<h3 align="center">I'm a 1st Year Computer science student studying at FAST National University of Computer and Emerging Sciences, Islamabad.</h3>
 
 - 🌱 I’m currently learning **Python**
 
