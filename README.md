@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 1st Year Computer science student studying at FAST National University of Computer and Emerging Sciences, Islamabad.<br>I'm interested in pursuing Artificial Intelligence and Machine Learning<br>I love solving coding problems.<br>🌱 I’m currently learning Python<br><br>📫 How to reach me muhammadisam246@gmail.com<br><br>⚡ Fun fact I also play Music. You can go check out my instagram!
+I'm a 1st Year Computer science student studying at FAST National University of Computer and Emerging Sciences, Islamabad.<br>I'm interested in pursuing Artificial Intelligence and Machine Learning.<br>🌱 I’m currently learning Python<br><br>📫 How to reach me muhammadisam246@gmail.com<br><br>⚡ Fun fact I also play Music. You can go check out my instagram!
 
 
 ## 🌐 Socials:
